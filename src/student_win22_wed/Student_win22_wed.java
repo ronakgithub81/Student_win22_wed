@@ -26,7 +26,6 @@ public class Student_win22_wed {
         }*/
        Scanner sc =new Scanner(System.in);
        System.out.print("Please enter a word");
-       System.out.print("This line is added");
        String word = sc.nextLine();
        
        char[] myLetters = new char[word.length()];
